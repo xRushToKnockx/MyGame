@@ -1,3 +1,5 @@
+# TODO: make this stuff work
+
 import items
 
 class Player:

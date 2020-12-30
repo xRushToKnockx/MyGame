@@ -1,3 +1,5 @@
+# TODO: make this stuff work
+
 import random
 
 class Quest:

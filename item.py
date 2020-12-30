@@ -1,3 +1,5 @@
+# TODO: make this stuff work
+
 class Item:
     types = ["weapon", "boots", "helmet", "chestplate", "food", "healing", "storyitem"]
     def __init__(self, name, type, worth):
