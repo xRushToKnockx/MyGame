@@ -1,6 +1,6 @@
 import random
 
-#class Quest(name, description, reward):
-#    name = self.name
-#    description = self.description
-#    reward = self.reward
+class Quest:
+    def __init__(self, description, reward):
+        self.description = description
+        self.reward = reward
